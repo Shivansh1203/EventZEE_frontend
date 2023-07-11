@@ -36,9 +36,14 @@
 
 .sign-up {
   background-image: url('/images/img-8.jpg');
-  background-position: center;
+  /* background-position: ; */
   background-size: cover;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 100px;
+  font-size: 20px;
+}
+
+.big-button {
+  font-size: 24px;
+  padding: 16px 32px;
 }
